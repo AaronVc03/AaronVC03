@@ -17,7 +17,7 @@ sensors:
 
 batteries:
 
-wireless communication:
+wireless communication: WIFI
 
 distance sensor - motors:
 
