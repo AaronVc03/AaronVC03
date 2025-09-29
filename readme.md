@@ -7,7 +7,7 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller:
+microcontroller: ESP8266
 
 motors: DC-Motor 6V - Type 130
 
