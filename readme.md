@@ -7,19 +7,19 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 
-microcontroller: ESP8266
+microcontroller: 
 
 motors: DC-Motor 6V - Type 130
 
-h-bridge:
+h-bridge: DRV8833 Bipolaire Stappenmotor- en DC-Motoraansturing
 
-sensors:
+sensors: 8x IR Lijn Tracking Module
 
-batteries: (AA / Knoopcel?)
+batteries: 2 x 18650 Li-ion
 
-wireless communication: WIFI (Wemos D1 Mini V4 - ESP8266 - CH340)
+wireless communication: Bluetooth HC-05 module RF transceiver Master en Slave
 
-distance sensor - motors:
+distance sensor - motors: 
 
 weight:
 
