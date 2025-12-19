@@ -21,7 +21,7 @@ wireless communication: Bluetooth HC-05 module RF transceiver Master en Slave
 
 distance sensor - motors: 96mm 
 
-weight:
+weight: +- 300G
 
-speed: 0.42 m/s
+speed: 0.46 m/s
 
