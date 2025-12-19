@@ -2,7 +2,7 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![Autootje](https://github.com/user-attachments/assets/bb6312a3-e4a5-4d39-b7ce-1c089b898a23)
 
   
 ## specifications
