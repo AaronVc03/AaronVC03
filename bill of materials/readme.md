@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|--------------|------|---------|
-|         1|  Microcontroller   |    ATmega328P        | Nieuw          |    €2,61          |   1   |    €2,61     |
+|         1|  Microcontroller   |    ATmega328P        | Nieuw          |    €2,61          |   1   |    €5,61     |
 |         2|  Sensoren  |    QTR-8A        | Nieuw          |   €1,24           |   1   |   €1,24      |
 |         3| H-brug  |    DRV8833       | Nieuw          |      €0,48      |   1   |  €0,48       |
 |         4|  Motoren  |    Gear motor 6V 50:1     | Nieuw          |    €3,25          |   2   |    €6,5     |
@@ -19,5 +19,5 @@
 |         14|  Pinheaders |   Pinheaders      | Nieuw          |   €2,22           |   1   |      €2,22   |
 |         15|  Wielen |    Wielen      | Nieuw          |   €3           |   2   |      €6   |
 |         16|  Frame |   PLA    | Nieuw          |    €0          |   1   |       €0  |
-|         |   |         |     |         |  Totaal |      € 32,82  |
+|         |   |         |     |         |  Totaal |      € 35,82  |
 
