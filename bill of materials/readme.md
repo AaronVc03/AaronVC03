@@ -8,8 +8,8 @@
 |         3| H-brug  |    DRV8833       | Nieuw          |      €0,48      |   1   |  €0,48       |
 |         4|  Motoren  |    Gear motor 6V 50:1     | Nieuw          |    €3,25          |   2   |    €6,5     |
 |         5|  Bluetooth  |    HC-05 module    | Nieuw          |     €3,90           |   1   |     €3,90     |
-|         6|  Batterij  |    18650       | Recup          |       €0       |   1   |     €0    |
-|         7|  Batterij houder  |    18650 houder       | Recup          |   €0           |   1   |      €0   |
+|         6|  Batterij  |    18650       | Nieuw          |       €2,30       |   1   |     €2,30    |
+|         7|  Batterij houder  |    18650 houder       | Nieuw          |   €1           |   1   |      €1   |
 |         8|  Batterij oplader  |    18650 oplader       | Nieuw          |   €3,69           |   1   |      €3,69   |
 |         9|  Weerstanden |    10kΩ & 220Ω      | Recup          |   €0           |   2   |      €0   |
 |         10|  Led/knop |    Led/knop     | Recup          |   €0           |   2   |      €0   |
@@ -18,6 +18,6 @@
 |         13|  Printplaaat |    Printplaat plan B      | Nieuw          |   €0,80         |   1   |      €0,80   |
 |         14|  Pinheaders |   Pinheaders      | Nieuw          |   €2,22           |   1   |      €2,22   |
 |         15|  Wielen |    Wielen      | Nieuw          |   €3           |   2   |      €6   |
-|         16|  Frame |   PLA    | Nieuw          |   €1           |   1   |      €1  |
+|         16|  Frame |   PLA    | Nieuw          |    €0          |   1   |       €0  |
 |         |   |         |     |         |  Totaal |      € 30,52  |
 
