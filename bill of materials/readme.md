@@ -19,5 +19,5 @@
 |         14|  Pinheaders |   Pinheaders      | Nieuw          |   €2,22           |   1   |      €2,22   |
 |         15|  Wielen |    Wielen      | Nieuw          |   €3           |   2   |      €6   |
 |         16|  Frame |   PLA    | Nieuw          |    €0          |   1   |       €0  |
-|         |   |         |     |         |  Totaal |      € 30,52  |
+|         |   |         |     |         |  Totaal |      € 32,82  |
 
